@@ -7,10 +7,10 @@ headers = []
   [functions."*"]
 
 [build]
-publish = "C:\\projets_dev\\site_C2F\\build\\web"
+publish = ""
 publishOrigin = "config"
 commandOrigin = "config"
-command = "bash ./netlify-build.sh"
+command = ""
 
   [build.environment]
 
